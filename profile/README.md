@@ -5,7 +5,9 @@ We build intelligent systems at the intersection of AI, blockchain and decentral
 ## Products
 
 **[RecoilPay](https://v2.recoilpay.com)** turns a sentence into a payment. Swap across chains, send to anyone, or cash out to naira by saying what you want. Competing solvers fill each order while an on-chain escrow holds the funds until delivery is proven.
-[Docs](https://docs.recoilpay.com) · [Tags](https://tags.recoilpay.com): reserve an `@name` for your wallet with a free signature
+[Docs](https://docs.recoilpay.com)
+
+**[RecoilPay Tags](https://tags.recoilpay.com)** gives your wallet a name. Reserve an `@name` with a free signature, not a transaction, and people can pay you by name instead of a long address.
 
 **[Recoil Link](https://link.recoilpay.com)** is cross-chain messaging with proof. Any contract can send a message to a contract on another chain, and the receiver can trust where it came from. RecoilPay settles its cross-chain fills on it.
 [Docs](https://docs.link.recoilpay.com) · [Explorer](https://recoil-link-explorer.vercel.app) · [npm](https://www.npmjs.com/org/recoillink)
